@@ -21,7 +21,7 @@
 ### [El Fence](https://elfence.ca)  
 🏠 **Industry:** Fencing Services  
 
-🔧 **Technologies Used:** CSS, HTML, Java Script, PHP 
+🔧 **Technologies Used:** CSS, HTML, Java Script,
 
 📖 **Description:** A visually appealing website providing information on fencing solutions and customer inquiries.  
 
